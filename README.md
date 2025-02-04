@@ -1,4 +1,4 @@
-# MZCAT-
+# DeepSeek R1+Cherry Studio量化知识库 MZCAT智能体-
 DeepSeek R1+Cherry Studio量化知识库智能体的提示词请自行拷贝：
 <anthropic_thinking_protocol>
 
